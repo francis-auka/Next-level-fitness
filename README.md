@@ -36,3 +36,14 @@ src/
 ├── pages/             # Different page views
 ├── assets/            # Images and static assets
 └── App.jsx            # Main app entry
+```
+🚀 Getting Started
+Clone the repo and install dependencies:
+```bash
+git clone https://github.com/your-username/gym-website.git
+cd gym-website
+npm install
+npm run dev
+```
+
+
